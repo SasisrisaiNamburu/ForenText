@@ -1,12 +1,12 @@
-# ForenText v2.0 – Integrated Messaging Forensics Analysis & Reporting Platform
+# ForenText – Integrated Messaging Forensics Analysis & Reporting Platform
 
 **Academic Final-Year Engineering Project in Digital Forensics & Cyber Security**
 
-ForenText v2.0 is an integrated, privacy-preserving digital messaging forensics platform that parses exported text-based conversations (e.g. WhatsApp exports), performs contextual NLP entity extraction, conducts cross-participant message correlation, synthesizes chronological event clusters, renders interactive network graphs, provides centralized search and filtering, and generates official forensic PDF reports with SHA-256 evidence integrity.
+ForenText is an integrated, privacy-preserving digital messaging forensics platform that parses exported text-based conversations (e.g. WhatsApp exports), performs contextual NLP entity extraction, conducts cross-participant message correlation, synthesizes chronological event clusters, renders interactive network graphs, provides centralized search and filtering, and generates official forensic PDF reports with SHA-256 evidence integrity.
 
 ---
 
-## 🛡️ Key Forensic Modules (Version 2.0)
+## 🛡️ Key Forensic Modules
 
 1. **Evidence Integrity & Chain of Custody (SHA-256)**:
    - Computes cryptographic SHA-256 digests in-browser using the W3C Web Cryptography API.
@@ -62,7 +62,7 @@ ForenText v2.0 is an integrated, privacy-preserving digital messaging forensics 
 ## 🚀 Step-by-Step Installation & Execution on Windows
 
 ### Step 1: Extract the ZIP Archive
-1. Right-click the downloaded `ForenText-v2.0-Complete-Source.zip` file.
+1. Right-click the downloaded `ForenText-Complete-Source.zip` file.
 2. Select **"Extract All..."** and choose a destination folder (e.g., `C:\Projects\ForenText`).
 3. Open the extracted folder.
 
