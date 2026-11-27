@@ -1,4 +1,4 @@
-import { runGeminiTranslationsWithMeta } from '../src/server/geminiAiServer';
+import { runGeminiTranslationsWithMeta } from '../src/server/geminiAiServer.js';
 
 export default async function handler(req: any, res: any) {
   res.setHeader('Content-Type', 'application/json');
