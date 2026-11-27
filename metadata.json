@@ -1,0 +1,6 @@
+{
+  "name": "ForenText - Messaging Forensics & Analysis",
+  "description": "Integrated digital messaging forensics platform with contextual NLP entity extraction, cross-participant message correlation, chronological event clustering, relationship graphs, and forensic PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

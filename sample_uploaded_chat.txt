@@ -1,0 +1,10 @@
+[10/06/2024, 08:30:12] Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[10/06/2024, 08:31:05] Inspector Alok Verma: Officer Gupta, please submit the status report regarding Case FT-9921 by noon today.
+[10/06/2024, 08:32:44] Sub-Inspector Gupta: Yes Sir. I am reviewing the seized hard drive and ledger accounts from the warehouse in Whitefield Bengaluru.
+[10/06/2024, 08:35:10] Sub-Inspector Gupta: We identified an intercepted communication mentioning a vehicle with registration KA 05 MN 9999.
+[10/06/2024, 08:36:25] Inspector Alok Verma: Check the toll plaza footage on Outer Ring Road and NH-44 border checkpoint immediately.
+[10/06/2024, 09:15:30] Sub-Inspector Gupta: The suspect transferred 75,000 via UPI handle suspect@okaxis to acquire an unregistered 9mm firearm with extra ammunition magazines.
+[10/06/2024, 09:17:12] Sub-Inspector Gupta: <Media omitted>
+[10/06/2024, 09:18:00] Sub-Inspector Gupta: Attached invoice copy and bank statement receipt found in suspect vehicle.
+[10/06/2024, 11:20:45] Inspector Alok Verma: Alert Advocate Mehta to prepare the search warrant for the godown in Sector 18.
+[10/06/2024, 11:22:10] Sub-Inspector Gupta: Acknowledged. We will secure the premises before midnight.

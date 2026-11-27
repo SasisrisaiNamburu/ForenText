@@ -1,0 +1,13 @@
+{
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/analyze-ai.ts": {
+      "maxDuration": 60
+    },
+    "api/translate-messages.ts": {
+      "maxDuration": 60
+    }
+  }
+}
